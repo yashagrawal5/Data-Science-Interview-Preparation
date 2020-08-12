@@ -1,4 +1,4 @@
-# Data-Science-Basic-Preparation Guide By Yash Agrawal - IIIT Bangalore 
+# Data-Science-Basic-Preparation Guide By Yash Agrawal 
 
 This is repository to help beginners to accelerate the data science interview preparation 
 # Data Science Question Answer
