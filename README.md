@@ -41,7 +41,7 @@ Spend some time going over your resume / past projects to make sure you explain 
 
 ## SQL
 
-* [Difference between joins](#difference-between-joins)
+SQL is a database computer language designed for the retrieval and management of data in a relational database. SQL stands for Structured Query Language. This tutorial will give you a quick start to SQL.
 
 There are two types of databases –
 1. Relational Database
@@ -90,7 +90,19 @@ DML is used for inserting, updating and deleting data from the database.
 
 The resources here are only meant to help you brush up on the topis rather than making you an expert.
 
-* [Spark](#spark)
+Here is the list of some best data science tools that most of the data scientists used
+
+## SAS
+It is one of those data science tools which are specifically designed for statistical operations. SAS is a closed source proprietary software that is used by large organizations to analyze data. SAS uses base SAS programming language which for performing statistical modeling.
+
+## BigML
+BigML, it is another widely used Data Science Tool. It provides a fully interactable, cloud-based GUI environment that you can use for processing Machine Learning Algorithms. BigML provides a standardized software using cloud computing for industry requirements. Through it, companies can use Machine Learning algorithms across various parts of their company. 
+
+## Excel
+Probably the most widely used Data Analysis tool. Microsoft developed Excel mostly for spreadsheet calculations and today, it is widely used for data processing, visualization, and complex calculations. Excel is a powerful analytical tool for Data Science.
+
+## ggplot2
+
 
 ### Spark
 
