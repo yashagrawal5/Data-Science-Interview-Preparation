@@ -43,6 +43,37 @@ Spend some time going over your resume / past projects to make sure you explain 
 
 * [Difference between joins](#difference-between-joins)
 
+There are two types of databases –
+1. Relational Database
+2. Non-relational Database
+
+What is SQL?
+1. SQL stands for Structured Query Language, which is a standardised language for interacting with RDBMS (Relational Database Management System). Some of the popular relational database example are: MySQL, Oracle, mariaDB, postgreSQL etc.
+
+2. SQL is used to perform C.R.U.D (Create, Retrieve, Update & Delete) operations on relational databases.
+
+3. SQL can also perform administrative tasks on database such as database security, backup, user management etc.
+
+4. We can create databases and tables inside database using SQL.
+
+Types of Structured Query Language(SQL)
+In the above section, we learned what we do with the database using SQL. SQL is basically combination of four different languages, they are –
+
+DQL (Data Query Language)
+DQL is used to fetch the information from the database which is already stored there.
+
+DDL (Data Definition Language)
+DDL is used to define table schemas.
+
+DCL (Data Control Language)
+DCL is used for user & permission management. It controls the access to the database.
+
+DML (Data Manipulation Language)
+DML is used for inserting, updating and deleting data from the database.
+
+![](assets/sql-join.PNG)
+
+
 
 ### Difference between joins
 
@@ -51,7 +82,6 @@ Spend some time going over your resume / past projects to make sure you explain 
 * **RIGHT (OUTER) JOIN**: Return all records from the right table, and the matched records from the left table
 * **FULL (OUTER) JOIN**: Return all records when there is a match in either left or right table
 
-![](assets/sql-join.PNG)
 
 [back to top](#data-science-question-answer)
 
